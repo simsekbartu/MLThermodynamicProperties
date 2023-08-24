@@ -11,7 +11,7 @@ The goal of this project is to curate datasets from existing literature sources,
 • Code will be commented to enhance comprehension for readers<br>
 • Google <b>Colab</b> (utilizing Jupyter notebooks) will be the chosen platform to facilitate efficient code management and tracking<br>
 • Each compound included in the dataset will be assigned a <b>CAS</b> or <b>CID</b> number, along with <b>isomeric SMILES</b> representations<br>
-• The three phases (gas, liquid, and solid) of <b>Δ<sub>f</sub>H⁰</b>, <b>S⁰</b>, and <b>Cp</b> will be investigated<br>
+• The three phases (gas, liquid, and solid) of standart <b>Δ<sub>f</sub>H⁰</b> (enthalpy of formation), <b>S⁰</b> (entropy/of formation), and <b>Cp</b> (heat capacity) will be investigated<br>
 <br>
 <b>The progression of the project involves the following steps:</b><br>
 • The utilization of both mixed datasets and segregated datasets categorized into distinct classes is planned<br>
