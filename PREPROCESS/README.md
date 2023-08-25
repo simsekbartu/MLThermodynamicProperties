@@ -12,7 +12,7 @@ Example of a compound within the dataset:<br>
 <b>Isomeric SMILES</b>: CC(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3 <br>
 <br>
 
-![OHE](https://raw.githubusercontent.com/simsekbartu/CNN1/main/PREPROCESS/download.png?token=GHSAT0AAAAAACGHYVDNPC77E3ED7CC3PCHYZHI7JMQ)
+![OHE](https://raw.githubusercontent.com/simsekbartu/MLThermodynamicProperties/main/PREPROCESS/Steps%20in%20the%20Preprocessing%20Process%20for%20One-Hot%20Encoding.png)
 <p align="center"><b>Figure 1</b>: Steps in the Preprocessing Process for One-Hot Encoding</p>
 
 While maintaining uniform input dimensions, the size is determined by the longest SMILES sequence within the dataset.
