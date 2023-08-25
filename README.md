@@ -92,5 +92,5 @@ The goal of this project is to curate datasets from existing literature sources,
 
 <h2>Additional information can be found in the following sections:<h2>
 • Datasets<br>
-• Preprocessing<br>
+• Preprocess<br>
 • Models<br>
