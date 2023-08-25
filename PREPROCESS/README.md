@@ -62,7 +62,7 @@ for i in range(0, len(chemical_smiles)):
       parameter_index = parameters.index(character)  # Find the index of the character in 'parameters'
       one_hot_encoding[j, parameter_index] = 1  # Set the corresponding entry in the one-hot encoding array to 1
     # Generate the file path to save the one-hot encoded array as an NPY file
-    file_path = folder_path + '/' + name[i] + '.npy'
+    file_path = folder_path + '/' + CAS[i] + '.npy'
     # Reshape the one-hot encoding array to have dimensions (character_count, num_parameters, 1)
     one_hot_encodingre = np.reshape(one_hot_encoding, [character_count, num_parameters, 1])
     # Save the one-hot encoded array as an NPY file
