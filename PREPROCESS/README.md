@@ -1,9 +1,12 @@
 <h2>Preprocess</h2>
 Within this section, you will discover a detailed explanation of the preprocessing steps applied to the datasets.<br>
 
-
-
 <h2>One-Hot-Encoding</h2>
+
+<a href="https://colab.research.google.com/gist/simsekbartu/aaf83db7bdd45edfe6a44265af47364b/ohe_preprocessing.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 As previously indicated, the utilized dataset incorporates isomeric SMILES, a distinctive representation of 2D chemical information, which is transformed into one-hot-encoding matrices.<br>
 <br>
 Example of a compound within the dataset:<br>
