@@ -88,7 +88,7 @@ The goal of this project is to curate datasets from existing literature sources,
 <b>Recommended data for preparing dataset:</b><br>
 • Pedley, J. B., Naylor, R. D., and Kirby, S. P. (1986). Thermochemical Data of Organic Compounds. DOI: <a href="https://doi.org/10.1007/978-94-009-4099-4">10.1007/978-94-009-4099-4</a><br>
 • Domalski, E. S., and Hearing, E. D. (1993). Estimation of the Thermodynamic Properties of C‐H‐N‐O‐S‐Halogen Compounds at 298.15 K. Journal of Physical and Chemical Reference Data, 22(4), 805–1159. DOI: <a href="https://doi.org/10.1063/1.555927">10.1063/1.555927</a><br>
-• National Institute of Standards and Technology (<a href="https://doi.org/10.1063/1.555927">NIST</a>), Thermodynamic Data: Gas phase & Condensed phase
+• Linstrom, P. J., and Mallard, W. G. (2023). NIST Chemistry WebBook, National Institute of Standards and Technology, Gaithersburg MD, 20899. <a href="https://webbook.nist.gov/">webbook.nist.gov</a><br>
 
 <h2>Additional information can be found in the following sections:<h2>
 • Datasets<br>
